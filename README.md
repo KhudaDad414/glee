@@ -6,7 +6,7 @@
 
 
 [![Coverage Status](https://coveralls.io/repos/github/asyncapi/glee/badge.svg?branch=master)](https://coveralls.io/github/asyncapi/glee?branch=master)
-
+test
 ## What's Glee?
 
 Glee is a spec-first framework that helps you build server-side applications. It leverages the AsyncAPI specification to make you more productive:
